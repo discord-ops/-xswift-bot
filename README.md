@@ -1,2 +1,2 @@
-# -xswift-bot
-xSwift: el bot de Discord todo en uno para Twitter/X. Publicaciones en tiempo real, reacciones bidireccionales, clasificaciones y mucho más.
+# xswift-bot
+xSwift — The all-in-one Discord bot for Twitter/X. Real-time feeds, bidirectional reactions, leaderboards and more.
